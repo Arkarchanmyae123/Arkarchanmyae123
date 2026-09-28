@@ -24,6 +24,11 @@ I am an aspiring Embedded Systems Engineer passionate about hardware, microcontr
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
+### 🌟 Leadership & Community
+*   🎓 **Founder:** Built and currently running **[Impact Education](https://impactedu.impacteducation650.workers.dev/)**, an initiative dedicated to accessible learning.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
 ### 📫 Let's Connect
 [![Email](https://img.shields.io/badge/Email-ark307471%40gmail.com-000080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ark307471@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkar-chan-myae-2b976a231/)
