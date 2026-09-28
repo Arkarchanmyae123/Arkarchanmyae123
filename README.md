@@ -15,11 +15,23 @@ I am an aspiring Embedded Systems Engineer passionate about hardware, microcontr
 
 **Focus Areas:** Internet of Things (IoT), Embedded Systems
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
 ### 🚀 My Projects
 *   ✅ **Completed:** An **IoT Hydroponic System** using an ESP32 to automate plant care.
 *   🔭 **Planning Next:** A **Flood Disaster Warning System** using LoRa technology for long-range, low-power communication.
 *   🔍 **Always Learning:** Exploring hardware-software integration and continuously learning new MCU architectures.
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
 ### 📫 Let's Connect
-*   **Email:** ark307471@gmail.com
-*   **Portfolio:** [------]
+[![Email](https://img.shields.io/badge/Email-ark307471%40gmail.com-000080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ark307471@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkar-chan-myae-2b976a231/)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+<div align="center">
+  <a href="https://github.com/Arkarchanmyae123">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkarchanmyae123&theme=dark&background=031224&ring=F5B041&fire=F5B041&currStreakNum=FFFFFF&currStreakLabel=F5B041&stroke=00599C&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
