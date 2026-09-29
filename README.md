@@ -24,18 +24,18 @@ I am an aspiring Embedded Systems Engineer passionate about hardware, microcontr
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-### 💻 42 School Projects
-*Building strong foundations in C, memory management, and algorithmic thinking.*
+### <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="22" height="22" /> 42 School Projects
+*Learning low-level C programming, system architecture, and manual memory control through the 42 curriculum projects.*
 
 <div align="center">
   <a href="https://github.com/Arkarchanmyae123/LIBFT_42">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arkarchanmyae123&repo=LIBFT_42&theme=dark&bg_color=031224&hide_border=true&title_color=F5B041&text_color=FFFFFF&icon_color=F5B041" alt="Libft Repo" width="400"/>
+    <img src="https://img.shields.io/badge/LIBFT_42-00599C?style=for-the-badge&logo=42&logoColor=F5B041&labelColor=031224" alt="Libft Repo"/>
   </a>
   <a href="https://github.com/Arkarchanmyae123/42_ft_Printf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arkarchanmyae123&repo=42_ft_Printf&theme=dark&bg_color=031224&hide_border=true&title_color=F5B041&text_color=FFFFFF&icon_color=F5B041" alt="Printf Repo" width="400"/>
+    <img src="https://img.shields.io/badge/FT_PRINTF-00599C?style=for-the-badge&logo=42&logoColor=F5B041&labelColor=031224" alt="Printf Repo"/>
   </a>
   <a href="https://github.com/Arkarchanmyae123/42_fract_ol">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arkarchanmyae123&repo=42_fract_ol&theme=dark&bg_color=031224&hide_border=true&title_color=F5B041&text_color=FFFFFF&icon_color=F5B041" alt="Fract_ol Repo" width="400"/>
+    <img src="https://img.shields.io/badge/FRACT_OL-00599C?style=for-the-badge&logo=42&logoColor=F5B041&labelColor=031224" alt="Fract_ol Repo"/>
   </a>
 </div>
 
