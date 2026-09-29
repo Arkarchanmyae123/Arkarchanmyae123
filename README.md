@@ -37,6 +37,9 @@ I am an aspiring Embedded Systems Engineer passionate about hardware, microcontr
   <a href="https://github.com/Arkarchanmyae123/42_fract_ol">
     <img src="https://img.shields.io/badge/FRACT_OL-00599C?style=for-the-badge&logo=42&logoColor=F5B041&labelColor=031224" alt="Fract_ol Repo"/>
   </a>
+  <a href="https://github.com/Arkarchanmyae123/42_push_swap">
+    <img src="https://img.shields.io/badge/PUSH_SWAP-00599C?style=for-the-badge&logo=42&logoColor=F5B041&labelColor=031224" alt="Push_swap Repo"/>
+  </a>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
