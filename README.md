@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:031224,100:00599C&height=220&section=header&text=Arkar%20Chan%20Myae&fontSize=48&fontColor=F5B041&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Low-Level%20C&descSize=18&descColor=FFFFFF&descAlignY=58&animation=fadeIn" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5B041&center=true&vCenter=true&width=600&lines=Hi,+I'm+Arkar+Chan+Myae+👋;Aspiring+Embedded+Systems+Engineer;IoT+and+Hardware+Enthusiast;Building+with+STM32,+ESP32+and+LoRa;Writing+C+close+to+the+metal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5B041&center=true&vCenter=true&width=650&lines=Hi,+I'm+Arkar+Chan+Myae+👋;Aspiring+Embedded+Systems+Engineer;IoT+and+Hardware+Enthusiast;Building+with+STM32,+ESP32+and+LoRa;Writing+C+close+to+the+metal" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -24,7 +24,7 @@
 <!-- ======================================================= -->
 ## 👨‍💻 About Me
 
-I'm an aspiring **Embedded Systems Engineer** who loves hardware, microcontrollers, and low-level programming. I learn by building: reading datasheets, wiring up boards, and debugging at the register level. I'm preparing to apply for **university scholarships** to continue my education in electronics and embedded systems.
+I'm an aspiring **Embedded Systems Engineer** who loves hardware, microcontrollers, and low-level programming. I learn by building: reading datasheets, wiring up boards, and debugging at the register level. My goal is to design reliable, low-power firmware for real-world IoT and disaster-prevention systems.
 
 <table>
 <tr>
@@ -34,13 +34,13 @@ I'm an aspiring **Embedded Systems Engineer** who loves hardware, microcontrolle
 Flood Disaster Warning System (STM32 + LoRa SX126x)
 
 🌱 **Currently learning**<br/>
-Low-power design, RTOS, SPI/I2C/UART drivers
+Low-power design, RTOS, SPI / I2C / UART drivers
 
 </td>
 <td>
 
-🎯 **Goal**<br/>
-University scholarship in Embedded / Electronics Engineering
+🎯 **Goals**<br/>
+Write production-quality firmware and ship real IoT products that solve community problems
 
 💬 **Ask me about**<br/>
 C, STM32 HAL, ESP32, IoT, LoRa, 42 curriculum
@@ -181,13 +181,9 @@ flowchart LR
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkarchanmyae123&theme=dark&background=031224&ring=F5B041&fire=F5B041&currStreakNum=FFFFFF&currStreakLabel=F5B041&stroke=00599C&hide_border=true" alt="streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arkarchanmyae123&bg_color=031224&color=F5B041&line=00599C&point=FFFFFF&area=true&area_color=00599C&hide_border=true" alt="activity graph" />
-
 </div>
 
-<!-- SNAKE ANIMATION: ဒီအပိုင်းက .github/workflows/snake.yml ကို run ပြီးမှ ပေါ်ပါမယ် -->
+<!-- SNAKE ANIMATION: .github/workflows/snake.yml ကို run ပြီးမှ ပေါ်ပါမယ် -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arkarchanmyae123/Arkarchanmyae123/output/github-snake-dark.svg" />
@@ -214,12 +210,12 @@ I'm open to **collaborations, mentorship, and learning opportunities** in embedd
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://impactedu.impacteducation650.workers.dev/">
-  <img src="https://img.shields.io/badge/Impact%20Education-F5B041?style=for-the-badge&logo=cloudflare&logoColor=031224&labelColor=031224" alt="Impact Education" />
+  <img src="https://img.shields.io/badge/Impact%20Education-F5B041?style=for-the-badge" alt="Impact Education" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=F5B041&center=true&vCenter=true&width=500&lines=%22Code+is+poetry+written+for+machines.%22;Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F" alt="quote" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=F5B041&center=true&vCenter=true&width=700&lines=%22Code+is+poetry+written+for+machines.%22;Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F" alt="quote" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:031224&height=120&section=footer" alt="footer" />
 
