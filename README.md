@@ -1,62 +1,226 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F5B041&center=true&vCenter=true&width=500&lines=Hi,+I'm+Arkar+Chan+Myae+👋;Aspiring+Embedded+Engineer;IoT+and+Hardware+Enthusiast" alt="Typing SVG" /></a>
+<!-- ======================================================= -->
+<!--                        HEADER                           -->
+<!-- ======================================================= -->
+<div align="center">
 
-I am an aspiring Embedded Systems Engineer passionate about hardware, microcontrollers, and low-level programming. I am building hands-on projects to expand my skills while preparing to apply for university scholarships to further my education.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:031224,100:00599C&height=220&section=header&text=Arkar%20Chan%20Myae&fontSize=48&fontColor=F5B041&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Low-Level%20C&descSize=18&descColor=FFFFFF&descAlignY=58&animation=fadeIn" alt="header" />
 
-### 🛠️ Skills & Technologies
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5B041&center=true&vCenter=true&width=600&lines=Hi,+I'm+Arkar+Chan+Myae+👋;Aspiring+Embedded+Systems+Engineer;IoT+and+Hardware+Enthusiast;Building+with+STM32,+ESP32+and+LoRa;Writing+C+close+to+the+metal" alt="Typing SVG" />
+</a>
 
-**Languages:** 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Ada](https://img.shields.io/badge/Ada-000000?style=for-the-badge&logo=ada&logoColor=white)
+<br/><br/>
 
-**Hardware/Microcontrollers:** 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=Arkarchanmyae123&label=Profile+Views&color=F5B041&style=for-the-badge&labelColor=031224" alt="views" />
+<img src="https://img.shields.io/github/followers/Arkarchanmyae123?label=Followers&style=for-the-badge&color=00599C&labelColor=031224&logo=github&logoColor=F5B041" alt="followers" />
+<img src="https://img.shields.io/badge/Location-Myanmar%20%F0%9F%87%B2%F0%9F%87%B2-00599C?style=for-the-badge&labelColor=031224" alt="location" />
 
-**Focus Areas:** Internet of Things (IoT), Embedded Systems
+</div>
+
+<br/>
+
+<!-- ======================================================= -->
+<!--                        ABOUT                            -->
+<!-- ======================================================= -->
+## 👨‍💻 About Me
+
+I'm an aspiring **Embedded Systems Engineer** who loves hardware, microcontrollers, and low-level programming. I learn by building: reading datasheets, wiring up boards, and debugging at the register level. I'm preparing to apply for **university scholarships** to continue my education in electronics and embedded systems.
+
+<table>
+<tr>
+<td>
+
+🔭 **Currently building**<br/>
+Flood Disaster Warning System (STM32 + LoRa SX126x)
+
+🌱 **Currently learning**<br/>
+Low-power design, RTOS, SPI/I2C/UART drivers
+
+</td>
+<td>
+
+🎯 **Goal**<br/>
+University scholarship in Embedded / Electronics Engineering
+
+💬 **Ask me about**<br/>
+C, STM32 HAL, ESP32, IoT, LoRa, 42 curriculum
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-### 🚀 My Projects
-*   ✅ **Completed:** An **IoT Hydroponic System** using an ESP32 to automate plant care.
-*   🔭 **Planning Next:** A **Flood Disaster Warning System** using LoRa technology for long-range, low-power communication.
-*   🔍 **Always Learning:** Exploring hardware-software integration and continuously learning new MCU architectures.
+<!-- ======================================================= -->
+<!--                        SKILLS                           -->
+<!-- ======================================================= -->
+## 🛠️ Skills & Technologies
+
+**Languages**<br/>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Ada](https://img.shields.io/badge/Ada-000000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Hardware / Microcontrollers**<br/>
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**Protocols & Interfaces**<br/>
+![LoRa](https://img.shields.io/badge/LoRa-SX126x-F5B041?style=for-the-badge&labelColor=031224)
+![SPI](https://img.shields.io/badge/SPI-00599C?style=for-the-badge&labelColor=031224)
+![I2C](https://img.shields.io/badge/I2C-00599C?style=for-the-badge&labelColor=031224)
+![UART](https://img.shields.io/badge/UART-00599C?style=for-the-badge&labelColor=031224)
+![GPIO](https://img.shields.io/badge/GPIO%20%2F%20EXTI-00599C?style=for-the-badge&labelColor=031224)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+**Tools & Platforms**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino,py,bash,md&theme=dark" alt="tools" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="22" height="22" /> 42 School Projects
-*Learning low-level C programming, system architecture, and manual memory control through the 42 curriculum projects.*
+<!-- ======================================================= -->
+<!--                      PROJECTS                           -->
+<!-- ======================================================= -->
+## 🚀 My Projects
+
+| Status | Project | Tech |
+|:---:|---|---|
+| ✅ Completed | **IoT Hydroponic System**: automates watering, nutrients and monitoring for plants | ESP32, Sensors, IoT |
+| 🔧 In Progress | **Flood Disaster Warning System**: long-range, low-power flood alerts | STM32, LoRa (SX126x), SPI |
+| 🔍 Always | Hardware-software integration and exploring new MCU architectures | C, HAL, Datasheets |
+
+<details>
+<summary><b>📡 Flood Disaster Warning System: how it works (click to expand)</b></summary>
+
+<br/>
+
+A remote sensor node measures water level and sends it over **LoRa** to a gateway, which raises an alert when a threshold is crossed. LoRa makes it possible to cover rural river areas with no Wi-Fi or cellular coverage, using very little power.
+
+```mermaid
+flowchart LR
+    A[Water Level Sensor] --> B[STM32 Node]
+    B -- SPI --> C[LoRa SX126x]
+    C -. LoRa RF .-> D[LoRa Gateway]
+    D --> E[Alert: SMS / Buzzer / Cloud]
+```
+
+**What I'm working on**
+- SX126x driver in C on STM32 HAL (SetStandby, SetPacketParams, SetTx, IRQ handling on DIO1)
+- Reliable TX/RX with BUSY-pin handling and timeouts
+- Low-power sleep between measurements
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+<!-- ======================================================= -->
+<!--                      42 SCHOOL                          -->
+<!-- ======================================================= -->
+## <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="26" height="26" /> 42 School Projects
+
+*Learning low-level C programming, system architecture, and manual memory management through the 42 curriculum.*
 
 <div align="center">
+<table>
+<tr>
+<td align="center">
   <a href="https://github.com/Arkarchanmyae123/LIBFT_42">
-    <img src="https://img.shields.io/badge/LIBFT_42-00599C?style=for-the-badge&logo=42&logoColor=F5B041&labelColor=031224" alt="Libft Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arkarchanmyae123&repo=LIBFT_42&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF" alt="Libft" />
   </a>
+</td>
+<td align="center">
   <a href="https://github.com/Arkarchanmyae123/42_ft_Printf">
-    <img src="https://img.shields.io/badge/FT_PRINTF-00599C?style=for-the-badge&logo=42&logoColor=F5B041&labelColor=031224" alt="Printf Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arkarchanmyae123&repo=42_ft_Printf&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF" alt="ft_printf" />
   </a>
+</td>
+</tr>
+<tr>
+<td align="center">
   <a href="https://github.com/Arkarchanmyae123/42_fract_ol">
-    <img src="https://img.shields.io/badge/FRACT_OL-00599C?style=for-the-badge&logo=42&logoColor=F5B041&labelColor=031224" alt="Fract_ol Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arkarchanmyae123&repo=42_fract_ol&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF" alt="fract_ol" />
   </a>
+</td>
+<td align="center">
   <a href="https://github.com/Arkarchanmyae123/42_push_swap">
-    <img src="https://img.shields.io/badge/PUSH_SWAP-00599C?style=for-the-badge&logo=42&logoColor=F5B041&labelColor=031224" alt="Push_swap Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arkarchanmyae123&repo=42_push_swap&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF" alt="push_swap" />
   </a>
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/Arkarchanmyae123/LIBFT_42"><img src="https://img.shields.io/badge/LIBFT-00599C?style=for-the-badge&logo=42&logoColor=F5B041&labelColor=031224" alt="Libft"/></a>
+<a href="https://github.com/Arkarchanmyae123/42_ft_Printf"><img src="https://img.shields.io/badge/FT_PRINTF-00599C?style=for-the-badge&logo=42&logoColor=F5B041&labelColor=031224" alt="ft_printf"/></a>
+<a href="https://github.com/Arkarchanmyae123/42_fract_ol"><img src="https://img.shields.io/badge/FRACT__OL-00599C?style=for-the-badge&logo=42&logoColor=F5B041&labelColor=031224" alt="fract_ol"/></a>
+<a href="https://github.com/Arkarchanmyae123/42_push_swap"><img src="https://img.shields.io/badge/PUSH__SWAP-00599C?style=for-the-badge&logo=42&logoColor=F5B041&labelColor=031224" alt="push_swap"/></a>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-### 🌟 Leadership & Community
-*   🎓 **Founder:** Built and currently running **[Impact Education](https://impactedu.impacteducation650.workers.dev/)**, an initiative dedicated to accessible learning.
+<!-- ======================================================= -->
+<!--                  LEADERSHIP & COMMUNITY                 -->
+<!-- ======================================================= -->
+## 🌟 Leadership & Community
+
+- 🎓 **Founder, [Impact Education](https://impactedu.impacteducation650.workers.dev/)**: an initiative dedicated to making learning accessible to everyone.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-### 📫 Let's Connect
-[![Email](https://img.shields.io/badge/Email-ark307471%40gmail.com-000080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ark307471@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkar-chan-myae-2b976a231/)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<!-- ======================================================= -->
+<!--                        STATS                            -->
+<!-- ======================================================= -->
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Arkarchanmyae123">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkarchanmyae123&theme=dark&background=031224&ring=F5B041&fire=F5B041&currStreakNum=FFFFFF&currStreakLabel=F5B041&stroke=00599C&hide_border=true" alt="GitHub Streak" />
-  </a>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Arkarchanmyae123&show_icons=true&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF&ring_color=00599C" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkarchanmyae123&layout=compact&hide_border=true&bg_color=031224&title_color=F5B041&text_color=FFFFFF" alt="top langs" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkarchanmyae123&theme=dark&background=031224&ring=F5B041&fire=F5B041&currStreakNum=FFFFFF&currStreakLabel=F5B041&stroke=00599C&hide_border=true" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arkarchanmyae123&bg_color=031224&color=F5B041&line=00599C&point=FFFFFF&area=true&area_color=00599C&hide_border=true" alt="activity graph" />
+
+</div>
+
+<!-- SNAKE ANIMATION: ဒီအပိုင်းက .github/workflows/snake.yml ကို run ပြီးမှ ပေါ်ပါမယ် -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arkarchanmyae123/Arkarchanmyae123/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arkarchanmyae123/Arkarchanmyae123/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Arkarchanmyae123/Arkarchanmyae123/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+<!-- ======================================================= -->
+<!--                        CONTACT                          -->
+<!-- ======================================================= -->
+## 📫 Let's Connect
+
+I'm open to **collaborations, mentorship, and learning opportunities** in embedded systems and IoT. Feel free to reach out.
+
+<div align="center">
+
+<a href="mailto:ark307471@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ark307471%40gmail.com-000080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/arkar-chan-myae-2b976a231/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://impactedu.impacteducation650.workers.dev/">
+  <img src="https://img.shields.io/badge/Impact%20Education-F5B041?style=for-the-badge&logo=cloudflare&logoColor=031224&labelColor=031224" alt="Impact Education" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=F5B041&center=true&vCenter=true&width=500&lines=%22Code+is+poetry+written+for+machines.%22;Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F" alt="quote" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:031224&height=120&section=footer" alt="footer" />
+
 </div>
