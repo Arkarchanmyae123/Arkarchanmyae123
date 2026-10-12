@@ -220,7 +220,20 @@ I'm open to **collaborations, mentorship, and learning opportunities** in embedd
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=F5B041&center=true&vCenter=true&width=700&lines=%22Code+is+poetry+written+for+machines.%22;Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F" alt="quote" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=F5B041&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F" alt="thanks" />
+
+<br/>
+<div align="center">
+  <i>"The sun is the same in a relative way but you're older,<br/>Shorter of breath and one day closer to death."</i><br/><br/>
+  <a href="https://www.youtube.com/@pinkfloyd" target="_blank">
+    <img src="https://img.shields.io/badge/Listen_to_Pink_Floyd-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
+<br/>
+
+<div align="center">
+  <img src="prism.svg" width="140" alt="Pink Floyd Prism" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:031224&height=120&section=footer" alt="footer" />
 
