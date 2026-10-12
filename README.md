@@ -13,7 +13,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Arkarchanmyae123&label=Profile+Views&color=F5B041&style=for-the-badge&labelColor=031224" alt="views" />
 <img src="https://img.shields.io/github/followers/Arkarchanmyae123?label=Followers&style=for-the-badge&color=00599C&labelColor=031224&logo=github&logoColor=F5B041" alt="followers" />
-<img src="https://img.shields.io/badge/Location-Myanmar%20%F0%9F%87%B2%F0%9F%87%B2-00599C?style=for-the-badge&labelColor=031224" alt="location" />
+<img src="https://img.shields.io/badge/Location-Thailand%20%F0%9F%87%B9%F0%9F%87%AD-00599C?style=for-the-badge&labelColor=031224" alt="location" />
 
 </div>
 
