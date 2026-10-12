@@ -24,26 +24,26 @@
 <!-- ======================================================= -->
 ## 👨‍💻 About Me
 
-I'm an aspiring **Embedded Systems Engineer** who loves hardware, microcontrollers, and low-level programming. I learn by building: reading datasheets, wiring up boards, and debugging at the register level. My goal is to design reliable, low-power firmware for real-world IoT and disaster-prevention systems.
+I'm an aspiring Embedded Systems Engineer who loves hardware, microcontrollers, and low-level programming.I learn by building: reading datasheets, wiring up boards, and debugging at the register level.Ultimately, my goal is to build robust, low-power firmware that solves real-world problems especially in IoT and disaster prevention.
 
 <table>
 <tr>
 <td>
 
 🔭 **Currently building**<br/>
-Flood Disaster Warning System (STM32 + LoRa SX126x)
+FLash Flood Warning System (STM32 + LoRa SX126x)(LoRa mesh hop network)
 
 🌱 **Currently learning**<br/>
-Low-power design, RTOS, SPI / I2C / UART drivers
+Embedded system architecture, FreeRTOS, and register-level hardware debugging
 
 </td>
 <td>
 
 🎯 **Goals**<br/>
-Write production-quality firmware and ship real IoT products that solve community problems
+Mastering embedded system architectures to design robust, real-time IoT solutions for critical real-world challenges.
 
 💬 **Ask me about**<br/>
-C, STM32 HAL, ESP32, IoT, LoRa, 42 curriculum
+STM32, ESP32, IoT, STM32-HAL, STM32-LL, 42 curriculum
 
 </td>
 </tr>
@@ -59,26 +59,31 @@ C, STM32 HAL, ESP32, IoT, LoRa, 42 curriculum
 **Languages**<br/>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Ada](https://img.shields.io/badge/Ada-000000?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Hardware / Microcontrollers**<br/>
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 **Protocols & Interfaces**<br/>
-![LoRa](https://img.shields.io/badge/LoRa-SX126x-F5B041?style=for-the-badge&labelColor=031224)
+![LoRa](https://img.shields.io/badge/LoRa-F5B041?style=for-the-badge&labelColor=031224)
 ![SPI](https://img.shields.io/badge/SPI-00599C?style=for-the-badge&labelColor=031224)
 ![I2C](https://img.shields.io/badge/I2C-00599C?style=for-the-badge&labelColor=031224)
-![UART](https://img.shields.io/badge/UART-00599C?style=for-the-badge&labelColor=031224)
-![GPIO](https://img.shields.io/badge/GPIO%20%2F%20EXTI-00599C?style=for-the-badge&labelColor=031224)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![UART / USART](https://img.shields.io/badge/UART%20%2F%20USART-00599C?style=for-the-badge&labelColor=031224)
+![DMA](https://img.shields.io/badge/DMA-03234B?style=for-the-badge&labelColor=031224)
+
 
 **Tools & Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino,py,bash,md&theme=dark" alt="tools" />
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5B041?style=for-the-badge&logo=platformio&logoColor=031224)
+![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00599C?style=for-the-badge&logo=freertos&logoColor=white)
+![Make](https://img.shields.io/badge/Make-031224?style=for-the-badge&logo=gnu&logoColor=white)
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vim&theme=dark" alt="tools" />
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+
 
 <!-- ======================================================= -->
 <!--                      PROJECTS                           -->
