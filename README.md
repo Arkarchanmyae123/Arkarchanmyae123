@@ -3,7 +3,7 @@
 <!-- ======================================================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:031224,100:00599C&height=220&section=header&text=Arkar%20Chan%20Myae&fontSize=48&fontColor=F5B041&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Low-Level%20C&descSize=18&descColor=FFFFFF&descAlignY=58&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:031224,100:00599C&height=220&section=header&text=Arkar%20Chan%20Myae&fontSize=48&fontColor=F5B041&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Hardware%20Architecture&descSize=18&descColor=FFFFFF&descAlignY=58&animation=fadeIn" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5B041&center=true&vCenter=true&width=650&lines=Hi,+I'm+Arkar+Chan+Myae+👋;Aspiring+Embedded+Systems+Engineer;IoT+and+Hardware+Enthusiast;Building+with+STM32,+ESP32+and+LoRa;Writing+C+close+to+the+metal" alt="Typing SVG" />
