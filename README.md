@@ -154,24 +154,24 @@ flowchart LR
 <tr>
 <td align="center">
   <a href="https://github.com/Arkarchanmyae123/LIBFT_42">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arkarchanmyae123&repo=LIBFT_42&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF&border_color=00599C" alt="Libft" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkarchanmyae123&repo=LIBFT_42&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF&border_color=00599C" alt="Libft" />
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/Arkarchanmyae123/42_ft_Printf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arkarchanmyae123&repo=42_ft_Printf&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF&border_color=00599C" alt="ft_printf" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkarchanmyae123&repo=42_ft_Printf&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF&border_color=00599C" alt="ft_printf" />
   </a>
 </td>
 </tr>
 <tr>
 <td align="center">
   <a href="https://github.com/Arkarchanmyae123/42_fract_ol">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arkarchanmyae123&repo=42_fract_ol&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF&border_color=00599C" alt="fract_ol" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkarchanmyae123&repo=42_fract_ol&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF&border_color=00599C" alt="fract_ol" />
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/Arkarchanmyae123/42_push_swap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arkarchanmyae123&repo=42_push_swap&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF&border_color=00599C" alt="push_swap" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Arkarchanmyae123&repo=42_push_swap&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF&border_color=00599C" alt="push_swap" />
   </a>
 </td>
 </tr>
@@ -204,8 +204,8 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Arkarchanmyae123&show_icons=true&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF&ring_color=00599C" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkarchanmyae123&layout=compact&hide_border=true&bg_color=031224&title_color=F5B041&text_color=FFFFFF" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arkarchanmyae123&show_icons=true&hide_border=true&bg_color=031224&title_color=F5B041&icon_color=F5B041&text_color=FFFFFF&ring_color=00599C" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arkarchanmyae123&layout=compact&hide_border=true&bg_color=031224&title_color=F5B041&text_color=FFFFFF" alt="Top Languages" />
 
 <br/><br/>
 
